@@ -1,1 +1,1 @@
-# C13-Atividade do aluno , codigo depois da professora mostrar as mudanças
+# C13-Atividade do aluno , código depois da professora mostrar as mudanças
